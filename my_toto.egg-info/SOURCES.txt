@@ -1,0 +1,7 @@
+setup.py
+my-toto/__init__.py
+my-toto/lib.py
+my_toto.egg-info/PKG-INFO
+my_toto.egg-info/SOURCES.txt
+my_toto.egg-info/dependency_links.txt
+my_toto.egg-info/top_level.txt
